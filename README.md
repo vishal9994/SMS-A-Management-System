@@ -29,6 +29,3 @@ The system was developed using modern technologies:
 - Backend: Python with Django framework.
 - Database: MySQL for development.
 
-# User Interfaces
-Visual representations of user interfaces for staff, students, and administrators are presented. Wireframes and screenshots showcase the layout and functionality 
-of each portal.
